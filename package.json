@@ -1,12 +1,12 @@
 {
   "name": "joker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An example application that tells jokes. Personal collection of useful functions.",
   "main": "src/index.js.",
   "type": "module",
   "scripts": {
     "test": "node src/js/joker.js",
-    "format": "prettier -w src/js/joker.js" 
+    "format": "prettier -w src/js/joker.js"
   },
   "repository": {
     "type": "git",
