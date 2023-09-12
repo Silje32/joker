@@ -1,8 +1,9 @@
 {
   "name": "joker",
   "version": "1.0.0",
-  "description": "Application that tells jokes. Personal collection of useful functions.",
+  "description": "An example application that tells jokes. Personal collection of useful functions.",
   "main": "src/index.js.",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,8 +20,4 @@
     "url": "https://github.com/Silje32/joker/issues"
   },
   "homepage": "https://github.com/Silje32/joker#readme"
-  {
-  "description": "example",
-  "type": "module"
-  },
-};
+  }
